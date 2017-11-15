@@ -1,5 +1,5 @@
 # Desafio - Software Engineer [Backend]
-Criar uma API RESTful que dada uma cidade brasileira, persista e retorne a previsão do tempo para até quatro dias da mesma; caso o registro esteja desatualizado por uma hora ou mais, atualizá-lo na ocorrência de uma nova consulta. Além disso, a API deve permitir a exibição das temperaturas em Celsius, Kelvin e Fahrenheit, sendo Celsius a unidade *default*.
+Criar uma API RESTful onde, dada uma cidade brasileira, persista e retorne a previsão do tempo para até quatro dias da mesma; caso o registro esteja desatualizado por uma hora ou mais, atualizá-lo na ocorrência de uma nova consulta. Além disso, a API deve permitir a exibição das temperaturas em Celsius, Kelvin e Fahrenheit, sendo Celsius a unidade *default*.
 
 As previsões deverão ser obtidas pelo [CPTEC/INPE](http://servicos.cptec.inpe.br/XML/).
 
