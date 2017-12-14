@@ -23,7 +23,7 @@ A Lendico foi fundada na Alemanha, em 2013, e já possui operação em sete paí
 
 Estamos em busca de profissionais com o seguinte perfil: pessoas resilientes, questionadoras, persistentes, e que primam por excelência. Se você tem acredita que tem o *fit cultural* para trabalhar em startup, num ambiente descontraído essa vaga é para você!
 
-Ahh, ficou curioso sobre como é trabalhar na Lendico? Dá uma espiada no nosso Instagram: [@lendicobr](https://www.instagram.com/lendicobr/)
+Ahh, aproveita e dá uma espiada no nosso Instagram ([@lendicobr](https://www.instagram.com/lendicobr/)) para ficar por dentro da nossa cultura :)
 
 ## O que procuramos?
 Um profissional de desenvolvimento capaz de trabalhar em equipe com as práticas do nosso time (baseadas em scrum, focados em resultados e testes), com boa visão de arquitetura de sistemas e construção de API's RESTful. Nossa *stack* é, principalmente: Python (framework Flask), MySQL, Celery, RabbitMQ, Git, AWS, Docker, Linux e Convox; você pode visualizá-la por completo [aqui](https://stackshare.io/lendico-brasil/lendico-brasil).
